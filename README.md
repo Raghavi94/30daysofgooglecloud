@@ -4,3 +4,7 @@
 ***QUEST 1:Creating and managing cloud resources***
 
 1)[A tour of Qwiklabs and Google Cloud](https://google.qwiklabs.com/focuses/2794?parent=catalog).
+
+**DAY 2:**
+
+2)[Creating a Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog).
