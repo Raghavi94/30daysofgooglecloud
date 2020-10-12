@@ -8,3 +8,7 @@
 **DAY 2:**
 
 2)[Creating a Virtual Machine](https://google.qwiklabs.com/focuses/3563?parent=catalog).
+
+**DAY 3:**
+
+3)[Getting started with Cloud Shell and GCloud](https://google.qwiklabs.com/focuses/563?parent=catalog).
