@@ -17,3 +17,7 @@
 **DAY 4:**
 
 4)[Kubernetes Engine:Qwik start](https://google.qwiklabs.com/focuses/878?parent=catalog).
+
+**DAY 5:**
+
+5)[Setup Network and HTTP Load Balancer](https://google.qwiklabs.com/focuses/12007?parent=catalog).
