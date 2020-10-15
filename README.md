@@ -25,3 +25,5 @@
 **DAY 6:**
 
 6)[Create and manage cloud resources:Challenge lab](https://google.qwiklabs.com/focuses/10258?parent=catalog).
+
+![Here is my badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fashutoshpipriye%2Fgetting-started-create-and-manage-cloud-resources-challenge-lab-3i70&psig=AOvVaw2Btuf5m5pg1PhaauO99QRz&ust=1602826916652000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNCvz9rxtewCFQAAAAAdAAAAABAD).
