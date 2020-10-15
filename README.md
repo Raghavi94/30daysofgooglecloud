@@ -21,3 +21,7 @@
 **DAY 5:**
 
 5)[Setup Network and HTTP Load Balancers](https://google.qwiklabs.com/focuses/12007?parent=catalog).
+
+**DAY 6:**
+
+6)[Create and manage cloud resources:Challenge lab](https://google.qwiklabs.com/focuses/10258?parent=catalog).
