@@ -27,3 +27,7 @@
 6)[Create and manage cloud resources:Challenge lab](https://google.qwiklabs.com/focuses/10258?parent=catalog).
 
 ![Here is my badge](https://res.cloudinary.com/practicaldev/image/fetch/s--7rOakUjH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/y2ix1hmiwaqp9gq4pcqh.png)
+
+**DAY 7:**
+
+7)[Cloud Storage:Qwik Start](https://google.qwiklabs.com/focuses/1760?parent=catalog).
