@@ -30,4 +30,4 @@
 
 **DAY 7:**
 
-7)[Cloud Storage:Qwik Start](https://google.qwiklabs.com/focuses/1760?parent=catalog).
+7)[Cloud Storage:Qwik Start-Cloud Console](https://google.qwiklabs.com/focuses/1760?parent=catalog).
