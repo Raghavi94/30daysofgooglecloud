@@ -4,7 +4,7 @@
 ***QUEST 1:Creating and managing cloud resources***
 ## [PROGRESS](https://google.qwiklabs.com/quests/120#).
 
-1)[A tour of Qwiklabs and Google Cloud](https://google.qwiklabs.com/focuses/2794?parent=catalog).
+- [A tour of Qwiklabs and Google Cloud](https://google.qwiklabs.com/focuses/2794?parent=catalog).
 
 **DAY 2:**
 
