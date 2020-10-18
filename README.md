@@ -36,3 +36,5 @@
 
 **DAY 8:**
 - [Cloud IAM:Qwik Start](https://run.qwiklabs.com/focuses/551?parent=catalog).
+
+- [Cloud Monitoring:Qwik Start](https://run.qwiklabs.com/focuses/10599?parent=catalog).
