@@ -33,3 +33,6 @@
 ### QUEST 2: Perform Foundational Infrastructure Tasks in Google Cloud
 
 - [Cloud Storage:Qwik Start-Cloud Console](https://google.qwiklabs.com/focuses/1760?parent=catalog).
+
+**DAY 8:**
+- [Cloud IAM:Qwik Start](https://run.qwiklabs.com/focuses/551?parent=catalog).
