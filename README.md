@@ -42,3 +42,5 @@
 **DAY 9:**
 
 - [Cloud Functions:Qwik Start-Console](https://run.qwiklabs.com/focuses/1763?parent=catalog).
+
+- [Google Cloud Pub/Sub: Qwik Start - Console](https://run.qwiklabs.com/focuses/3719?parent=catalog).
