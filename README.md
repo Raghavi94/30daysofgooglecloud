@@ -40,3 +40,5 @@
 - [Cloud Monitoring:Qwik Start](https://run.qwiklabs.com/focuses/10599?parent=catalog).
 
 **DAY 9:**
+
+- [Cloud Functions:Qwik Start-Console](https://run.qwiklabs.com/focuses/1763?parent=catalog).
