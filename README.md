@@ -47,4 +47,4 @@
 
 - [Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab](https://run.qwiklabs.com/focuses/10379?parent=catalog).
 
-![Here is my badge](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.qwiklabs.com%2Fquests%2F118&psig=AOvVaw0_3OpEXi6fHKNDSLY3szu2&ust=1603218805378000&source=images&cd=vfe&ved=0CAIQjRxqGAoTCJDl29KlwewCFQAAAAAdAAAAABCSAQ)
+
