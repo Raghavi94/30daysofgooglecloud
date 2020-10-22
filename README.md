@@ -53,4 +53,8 @@
 
 - [Multiple VPC Networks](https://google.qwiklabs.com/focuses/1230?parent=catalog).
 
+**DAY 11:**
+
+- [Deployment Manager - Full Production](https://google.qwiklabs.com/focuses/981?parent=catalog).
+
 
