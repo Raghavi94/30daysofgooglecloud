@@ -57,4 +57,8 @@
 
 - [Deployment Manager - Full Production](https://google.qwiklabs.com/focuses/981?parent=catalog).
 
+**DAY 12:**
+
+- [Managing Deployments Using Kubernetes Engine](https://google.qwiklabs.com/focuses/639?parent=catalog).
+
 
