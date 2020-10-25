@@ -61,4 +61,8 @@
 
 - [Managing Deployments Using Kubernetes Engine](https://google.qwiklabs.com/focuses/639?parent=catalog).
 
+**DAY 13:**
+
+- [Set up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/10603?parent=catalog).
+
 
