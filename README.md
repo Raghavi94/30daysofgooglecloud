@@ -51,6 +51,9 @@
 
 **DAY 10:**
 
+### QUEST 3:Set up and Configure a Cloud Environment in Google Cloud
+
+
 - [Introduction to SQL for BigQuery and Cloud SQL](https://google.qwiklabs.com/focuses/2802?parent=catalog).
 
 - [Multiple VPC Networks](https://google.qwiklabs.com/focuses/1230?parent=catalog).
