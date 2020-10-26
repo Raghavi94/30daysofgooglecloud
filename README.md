@@ -47,6 +47,8 @@
 
 - [Perform Foundational Infrastructure Tasks in Google Cloud: Challenge Lab](https://run.qwiklabs.com/focuses/10379?parent=catalog).
 
+<img src="https://cdn.qwiklabs.com/FYSTxJ1OM3c0yw3REBzKw0RIk14gnO4i6e5TDc5SA84%3D">
+
 **DAY 10:**
 
 - [Introduction to SQL for BigQuery and Cloud SQL](https://google.qwiklabs.com/focuses/2802?parent=catalog).
