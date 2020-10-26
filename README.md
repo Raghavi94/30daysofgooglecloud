@@ -72,4 +72,8 @@
 
 <img src="https://cdn.qwiklabs.com/N3%2BwDzFLMX6LfRsvQUIvQJcjCa3AxXLw2LOjRXICzkA%3D">
 
+### QUEST 4:Deploy and Manage Cloud Environments with Google Cloud
+
+- [Orchestrating the Cloud with Kubernetes](https://google.qwiklabs.com/focuses/557?parent=catalog).
+
 
