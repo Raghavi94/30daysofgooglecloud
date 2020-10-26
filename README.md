@@ -76,4 +76,6 @@
 
 - [Orchestrating the Cloud with Kubernetes](https://google.qwiklabs.com/focuses/557?parent=catalog).
 
+- [Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine](https://google.qwiklabs.com/focuses/552?parent=catalog).
+
 
