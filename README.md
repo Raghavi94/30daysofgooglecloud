@@ -65,4 +65,6 @@
 
 - [Set up and Configure a Cloud Environment in Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/10603?parent=catalog).
 
+<img src="https://cdn.qwiklabs.com/N3%2BwDzFLMX6LfRsvQUIvQJcjCa3AxXLw2LOjRXICzkA%3D">
+
 
