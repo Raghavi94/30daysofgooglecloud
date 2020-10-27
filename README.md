@@ -78,4 +78,8 @@
 
 - [Continuous Delivery Pipelines with Spinnaker and Kubernetes Engine](https://google.qwiklabs.com/focuses/552?parent=catalog).
 
+**DAY 14:**
+
+- [Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/10417?parent=catalog).
+
 
