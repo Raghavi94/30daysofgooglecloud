@@ -84,4 +84,6 @@
 
 - [Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/10417?parent=catalog).
 
+<img src="https://cdn.qwiklabs.com/VjyAwxm%2FPfVYFe925M0qxSVYaVxDhz2woSQRdAEBMZ8%3D">
+
 
