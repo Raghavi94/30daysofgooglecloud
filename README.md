@@ -80,6 +80,8 @@
 
 **DAY 14:**
 
+- [Site Reliability Troubleshooting with Cloud Monitoring APM](https://google.qwiklabs.com/focuses/4186?parent=catalog).
+
 - [Deploy and Manage Cloud Environments with Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/10417?parent=catalog).
 
 
