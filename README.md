@@ -86,4 +86,8 @@
 
 <img src="https://cdn.qwiklabs.com/VjyAwxm%2FPfVYFe925M0qxSVYaVxDhz2woSQRdAEBMZ8%3D">
 
+**DAY 15:**
+
+- [VPC Networks - Controlling Access](https://google.qwiklabs.com/focuses/1231?parent=catalog).
+
 
