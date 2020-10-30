@@ -97,3 +97,5 @@
 - [User Authentication: Identity-Aware Proxy](https://google.qwiklabs.com/focuses/5562?parent=catalog).
 
 - [HTTP Load Balancer with Cloud Armor](https://google.qwiklabs.com/focuses/1232?parent=catalog).
+
+- [Create an Internal Load Balancer](https://google.qwiklabs.com/focuses/1250?parent=catalog).
