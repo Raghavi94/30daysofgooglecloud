@@ -99,3 +99,5 @@
 - [HTTP Load Balancer with Cloud Armor](https://google.qwiklabs.com/focuses/1232?parent=catalog).
 
 - [Create an Internal Load Balancer](https://google.qwiklabs.com/focuses/1250?parent=catalog).
+
+- [Build and Secure Networks in Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/12068?parent=catalog).
