@@ -101,3 +101,5 @@
 - [Create an Internal Load Balancer](https://google.qwiklabs.com/focuses/1250?parent=catalog).
 
 - [Build and Secure Networks in Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/12068?parent=catalog).
+
+<img src="https://cdn.qwiklabs.com/apNpv%2BiHmmdV7%2F9uQ4WV%2BJJsqaD9aGMI6KsMJsgpnlA%3D">
