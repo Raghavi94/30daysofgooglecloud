@@ -92,4 +92,8 @@
 
 - [VPC Networks - Controlling Access](https://google.qwiklabs.com/focuses/1231?parent=catalog).
 
+**DAY 16:**
+
+- [User Authentication: Identity-Aware Proxy](https://google.qwiklabs.com/focuses/5562?parent=catalog).
+
 
