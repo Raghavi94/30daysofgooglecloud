@@ -110,3 +110,5 @@
 
 - [Introduction to Docker](https://google.qwiklabs.com/focuses/1029?parent=catalog).
 
+- [Continuous Delivery with Jenkins in Kubernetes Engine](https://google.qwiklabs.com/focuses/1104?parent=catalog).
+
