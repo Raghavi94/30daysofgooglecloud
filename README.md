@@ -112,3 +112,5 @@
 
 - [Continuous Delivery with Jenkins in Kubernetes Engine](https://google.qwiklabs.com/focuses/1104?parent=catalog).
 
+- [Deploy to Kubernetes in Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/10457?parent=catalog).
+
