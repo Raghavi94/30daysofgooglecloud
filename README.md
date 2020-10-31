@@ -106,7 +106,7 @@
 
 **DAY 17:**
 
-### QUEST 6:
+### QUEST 6:Deploy to Kubernetes in Google Cloud
 
 - [Introduction to Docker](https://google.qwiklabs.com/focuses/1029?parent=catalog).
 
