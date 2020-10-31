@@ -103,3 +103,10 @@
 - [Build and Secure Networks in Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/12068?parent=catalog).
 
 <img src="https://cdn.qwiklabs.com/apNpv%2BiHmmdV7%2F9uQ4WV%2BJJsqaD9aGMI6KsMJsgpnlA%3D">
+
+**DAY 17:**
+
+### QUEST 6:
+
+- [Introduction to Docker](https://google.qwiklabs.com/focuses/1029?parent=catalog).
+
