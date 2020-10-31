@@ -114,3 +114,5 @@
 
 - [Deploy to Kubernetes in Google Cloud: Challenge Lab](https://google.qwiklabs.com/focuses/10457?parent=catalog).
 
+<img src="https://cdn.qwiklabs.com/2nd5TLO%2BpmXArh2laFfQeO1ypildO%2FpayYNZJUStvRs%3D">
+
